@@ -16,3 +16,15 @@ button, input, select, textarea {
     line-height: inherit;
 }
 
+.conversion-value{
+    color: #00d26a;
+    font-weight: bold;
+}
+
+.conversion-type{
+background-color:#00d26a;
+    padding: 4px 8px;
+    border-radius: .25rem;
+    font-weight: bold;
+
+}
